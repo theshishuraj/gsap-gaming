@@ -150,7 +150,7 @@ const Hero = () => {
             <div className="mt-24 px-5 sm:px-10">
               <h1 className="special-font hero-heading text-blue-100">
                 Reinve<b>n</b>t
-              </h1>//
+              </h1>
               <p className="mb-5 max-w-64 font-robert-regular text-blue-100">
                 Enter the Metagame Layer <br /> Unleash the play Economy
               </p>
